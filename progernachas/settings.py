@@ -110,7 +110,7 @@ ROOT_URLCONF = 'progernachas.urls'
 # Python dotted path to the WSGI application used by Django's runserver.
 WSGI_APPLICATION = 'progernachas.wsgi.application'
 
-TEMPLATE_DIRS = ('/home/vampire/PycharmProjects/progernachas/templates',)
+TEMPLATE_DIRS = ('/var/www/progernachas/templates',)
 
 INSTALLED_APPS = (
     'django.contrib.auth',
